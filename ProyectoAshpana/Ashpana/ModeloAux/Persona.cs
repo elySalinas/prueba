@@ -35,6 +35,8 @@ namespace Modelo
             this.FechaNac = fechaNac;
         }
 
+        //HOLA ELIIIIIIIIIIIINF
+
         public int IdPersona { get => idPersona; set => idPersona = value; }
         public string Dni { get => dni; set => dni = value; }
         public string Nombres { get => nombres; set => nombres = value; }
