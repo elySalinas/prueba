@@ -31,20 +31,23 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
-    <Reference Include="MySql.Data">
-      <HintPath>..\..\..\DRIVERS\MySql.Data.dll</HintPath>
+    <Reference Include="Google.Protobuf">
+      <HintPath>..\..\driversDeC#\Google.Protobuf.dll</HintPath>
     </Reference>
-    <Reference Include="MySql.Data.Entity.EF6">
-      <HintPath>..\..\..\DRIVERS\MySql.Data.Entity.EF6.dll</HintPath>
+    <Reference Include="MySql.Data">
+      <HintPath>..\..\driversDeC#\MySql.Data.dll</HintPath>
+    </Reference>
+    <Reference Include="MySql.Data.EntityFramework">
+      <HintPath>..\..\driversDeC#\MySql.Data.EntityFramework.dll</HintPath>
     </Reference>
     <Reference Include="MySQL.Data.EntityFrameworkCore">
-      <HintPath>..\..\..\DRIVERS\MySQL.Data.EntityFrameworkCore.dll</HintPath>
+      <HintPath>..\..\driversDeC#\MySQL.Data.EntityFrameworkCore.dll</HintPath>
     </Reference>
     <Reference Include="MySQL.Data.EntityFrameworkCore.Design">
-      <HintPath>..\..\..\DRIVERS\MySQL.Data.EntityFrameworkCore.Design.dll</HintPath>
+      <HintPath>..\..\driversDeC#\MySQL.Data.EntityFrameworkCore.Design.dll</HintPath>
     </Reference>
     <Reference Include="MySql.Web">
-      <HintPath>..\..\..\DRIVERS\MySql.Web.dll</HintPath>
+      <HintPath>..\..\driversDeC#\MySql.Web.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
