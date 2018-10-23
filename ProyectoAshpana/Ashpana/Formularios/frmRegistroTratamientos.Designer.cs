@@ -60,7 +60,6 @@
             this.lblDuracion.Size = new System.Drawing.Size(85, 21);
             this.lblDuracion.TabIndex = 5;
             this.lblDuracion.Text = "Duración:";
-            this.lblDuracion.Click += new System.EventHandler(this.lblDuracion_Click);
             // 
             // lblPrecio
             // 
@@ -72,7 +71,6 @@
             this.lblPrecio.Size = new System.Drawing.Size(61, 21);
             this.lblPrecio.TabIndex = 6;
             this.lblPrecio.Text = "Precio:";
-            this.lblPrecio.Click += new System.EventHandler(this.lblPrecio_Click);
             // 
             // txtDuracion
             // 
@@ -81,7 +79,6 @@
             this.txtDuracion.Name = "txtDuracion";
             this.txtDuracion.Size = new System.Drawing.Size(164, 27);
             this.txtDuracion.TabIndex = 11;
-            this.txtDuracion.TextChanged += new System.EventHandler(this.txtDuracion_TextChanged);
             // 
             // txtPrecio
             // 
@@ -90,7 +87,6 @@
             this.txtPrecio.Name = "txtPrecio";
             this.txtPrecio.Size = new System.Drawing.Size(174, 27);
             this.txtPrecio.TabIndex = 12;
-            this.txtPrecio.TextChanged += new System.EventHandler(this.txtPrecio_TextChanged);
             // 
             // btnRegistrar
             // 
@@ -142,7 +138,6 @@
             this.lblSoles.Size = new System.Drawing.Size(29, 21);
             this.lblSoles.TabIndex = 16;
             this.lblSoles.Text = "S/.";
-            this.lblSoles.Click += new System.EventHandler(this.lblSoles_Click);
             // 
             // txtNombreTrat
             // 
@@ -151,7 +146,6 @@
             this.txtNombreTrat.Name = "txtNombreTrat";
             this.txtNombreTrat.Size = new System.Drawing.Size(387, 27);
             this.txtNombreTrat.TabIndex = 18;
-            this.txtNombreTrat.TextChanged += new System.EventHandler(this.textBox1_TextChanged);
             // 
             // lblNombreTrat
             // 
@@ -163,7 +157,6 @@
             this.lblNombreTrat.Size = new System.Drawing.Size(206, 21);
             this.lblNombreTrat.TabIndex = 17;
             this.lblNombreTrat.Text = "Nombre del Tratamiento:";
-            this.lblNombreTrat.Click += new System.EventHandler(this.label1_Click_1);
             // 
             // lblTratamientos
             // 
