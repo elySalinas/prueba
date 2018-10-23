@@ -7,6 +7,7 @@ using System.Threading.Tasks;
 
 namespace Modelo
 {
+    //HOLAAAAAAAAAAAAAAAAAAAAAA XD
     public class Cita
     {
         private BindingList<Tratamiento> listaTratamientos;
